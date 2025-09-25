@@ -1,4 +1,4 @@
-# MARAB
-MARAB COIN
+# MARABsol
+MARABsol COIN
 
 Sell coin
